@@ -1,0 +1,8 @@
+RewriteEngine On
+
+RewriteRule ^api/listar$ api.php?opc=listar [NC,L]
+RewriteRule ^api/insertar$ api.php?opc=insertar [NC,L]
+RewriteRule ^api/editar$ api.php?opc=editar [NC,L]
+RewriteRule ^api/eliminar/([0-9]+)$ api.php?opc=eliminar&id=$1 [NC,L]
+RewriteRule ^api/obtener/([0-9]+)$ api.php?opc=obtener&id=$1 [NC,L]
+
