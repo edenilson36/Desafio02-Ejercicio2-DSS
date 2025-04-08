@@ -1,1 +1,4 @@
-# Desafio02-Ejercicio2-DSS
+# Desafío 02
+
+**Nombre:** Jeferson Edenilson Campos Rosales  
+**Carnet:** CR241530
